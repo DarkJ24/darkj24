@@ -34,7 +34,7 @@ That breadth matters to me because production AI is rarely just a model problem.
 
 ### Technologies I work with today
 
-`AI/LLMs` · `Claude` · `OpenAI` · `Amazon Bedrock` · `Azure AI` · `RAG` · `MCP` · `A2A` · `Python` · `Node.js` · `TypeScript` · `AWS` · `OCI` · `Azure` · `Kubernetes` · `Docker` · `Terraform` · `PostgreSQL` · `Oracle` · `Redis` · `OpenTelemetry` · `Elastic`
+`AI/LLMs` · `Claude` · `OpenAI` · `Amazon Bedrock` · `Azure AI` · `RAG` · `MCP` · `Python` · `Node.js` · `TypeScript` · `AWS` · `OCI` · `Azure` · `Kubernetes` · `Docker` · `Terraform` · `PostgreSQL` · `Oracle` · `Redis` · `OpenTelemetry` · `Elastic`
 
 Earlier work also includes native Android/iOS, React Native, Ethereum, Hyperledger Fabric and smart contracts, multiple relational and NoSQL databases, and broader cloud/platform engineering.
 
